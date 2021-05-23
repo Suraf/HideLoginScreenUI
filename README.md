@@ -2,7 +2,7 @@ HideLoginScreenUI repository that contains files to replace elements with transp
 
 ### How to add?
 
-Just place the folders, `Fonts` and `Inteface`, in the _World of Warcraft_ install folder (i.e. `World of Warcraft/_retail_`).
+Just place the folders, `Fonts` and `Interface`, in the _World of Warcraft_ install folder (i.e. `World of Warcraft/_retail_`).
 
 * `_retail_` = modern World of Warcraft (i.e. Shadowlands)
 * `_ptr_` = World of Warcraft (Public Test Realm)
