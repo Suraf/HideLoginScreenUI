@@ -4,12 +4,14 @@ HideLoginScreenUI repository that contains files to replace elements with transp
 
 Just place the folders, `Fonts` and `Interface`, in the _World of Warcraft_ install folder (i.e. `World of Warcraft/_retail_`).
 
-* `_retail_` = modern World of Warcraft (i.e. Shadowlands)
-* `_ptr_` = World of Warcraft (Public Test Realm)
-* `_classic_ptr_` = World of Warcraft: Burning Crusade Classic (Public Test Realm)
+* `_retail_` = Retail (i.e. Dragonflight)
+* `_ptr_` = Retail Public Test Realm
+* `_xptr_` = Retail Public Test Realm
+* `_classic_` = Classic branch (e.g. Wrath of the Lich King Classic)
+* `_classic_ptr_` = Classic branch PTR (e.g. Wrath of the Lich King Classic)
 * `_classic_era_` = World of Warcraft: Classic
-* `_classic_` = World of Warcraft: Burning Crusade Classic
-* `_beta_` = World of Warcraft (beta)
+* `_classic_era_ptr_` = World of Warcraft: Classic PTR
+* `_beta_` = Retail beta (i.e. Dragonflight beta)
 
 [See also](https://wowpedia.fandom.com/Public_client_builds)
 
@@ -23,4 +25,4 @@ I use this to get clean screenshots of the login screen for use on the Wowpedia 
 
 ### Known issues
 
-* Currently _Shadowlands_ and _Burning Crusade Classic_ displays "square boxes" for the font. See [Issue.jpg](Issue.jpg).
+* As of _Shadowlands_ and _Burning Crusade Classic_ displays "square boxes" for the font. See [Issue.jpg](Issue.jpg).
