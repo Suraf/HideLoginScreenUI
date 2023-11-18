@@ -13,7 +13,7 @@ Just place the folders, `Fonts` and `Interface`, in the _World of Warcraft_ inst
 * `_classic_era_ptr_` = World of Warcraft: Classic PTR
 * `_beta_` = Retail beta (i.e. Dragonflight beta)
 
-[See also](https://wowpedia.fandom.com/Public_client_builds)
+[See also](https://warcraft.wiki.gg/Public_client_builds)
 
 ### How to remove?
 
@@ -21,7 +21,7 @@ Just delete the folder `Fonts` and delete all the folders in `Interface`, except
 
 ### Why?
 
-I use this to get clean screenshots of the login screen for use on the Wowpedia article, [Loading screen](https://wowpedia.fandom.com/wiki/Loading_screen), which contains all the past and current looks with and without the interface. Others may just want to check it out.
+I use this to get clean screenshots of the login screen for use on the Warcraft Wiki article, [Loading screen](https://warcraft.wiki.gg/wiki/Loading_screen), which contains all the past and current looks with and without the interface. Others may just want to check it out.
 
 ### Known issues
 
