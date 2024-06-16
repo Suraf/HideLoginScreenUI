@@ -1,4 +1,4 @@
-HideLoginScreenUI repository that contains files to replace elements with transparent ones in the _World of Warcraft_ login screen.
+**HideLoginScreenUI** repository contains files to replace elements with transparent ones for the _World of Warcraft_ login screen.
 
 ### How to add?
 
@@ -17,12 +17,8 @@ Just place the folders, `Fonts` and `Interface`, in the _World of Warcraft_ inst
 
 ### How to remove?
 
-Just delete the folder `Fonts` and delete all the folders in `Interface`, except the `AddOns` folder.
+Just delete the folder `Fonts` and delete all the folders in `Interface` folder (except the `AddOns` folder).
 
 ### Why?
 
-I use this to get clean screenshots of the login screen for use on the Warcraft Wiki article, [Loading screen](https://warcraft.wiki.gg/wiki/Loading_screen), which contains all the past and current looks with and without the interface. Others may just want to check it out.
-
-### Known issues
-
-* As of _Shadowlands_ and _Burning Crusade Classic_ displays "square boxes" for the font. See [Issue.jpg](Issue.jpg).
+I use this to get clean screenshots of the login screen for use on the [Warcraft Wiki](https://warcraft.wiki.gg/wiki/Warcraft_Wiki:About) article, [Loading screen](https://warcraft.wiki.gg/wiki/Loading_screen), which contains all the past and current looks with and without the interface. Others may just want to check it out.
