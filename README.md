@@ -21,4 +21,4 @@ Just delete the folder `Fonts` and delete all the folders in `Interface` folder 
 
 ### Why?
 
-I use this to get clean screenshots of the login screen for use on the [Warcraft Wiki](https://warcraft.wiki.gg/wiki/Warcraft_Wiki:About) article, [Loading screen](https://warcraft.wiki.gg/wiki/Loading_screen), which contains all the past and current looks with and without the interface. Others may just want to check it out.
+I use this to get clean screenshots of the login screen for use on the [Warcraft Wiki](https://warcraft.wiki.gg/wiki/Warcraft_Wiki:About) article, [Login screen](https://warcraft.wiki.gg/wiki/Login_screen), which contains all the past and current looks with and without the interface. Others may just want to check it out.
